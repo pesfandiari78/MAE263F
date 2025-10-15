@@ -1,4 +1,5 @@
 #I have 2 files in this homework
 #1- Homework1  which is the general code for this homework using the implicit method
 #2- Homework1_Explicit_method which is the code used for the Explicit method for question 3 of this homework
-# Both of the files will run completely just by clicking run
+# Both of the files have been imported from Colab and have the results at the bottom of them but you're also able to download the files
+# and run completely just by clicking run in python/colab
